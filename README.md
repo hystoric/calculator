@@ -30,6 +30,3 @@ A functional desktop calculator application built with Python and Tkinter. This 
    ```bash
    python main.py
    ```
-   
-
-#testing
